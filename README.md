@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ThatCatMC (don't judge me I am 15 and still learning)
-- 👀 I’m interested in coding (learning) and basketball
-- 🌱 I’m currently learning python and VBS Script
+- 👋 Hi, I’m ThatCatMC (don't judge me I am 16 and still learning)
+- 👀 I’m interested in coding (learning) and doing research about stuff
+- 🌱 I’m currently learning python
 - 💞️ I am an introvert so no collab
-- 📫 Discord: thatcatmc, Youtube: @ThatCatMC
+- 📫 Discord: thatcatmc
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know intentionally downloading a computer virus is illegal in a lot of countries
 
